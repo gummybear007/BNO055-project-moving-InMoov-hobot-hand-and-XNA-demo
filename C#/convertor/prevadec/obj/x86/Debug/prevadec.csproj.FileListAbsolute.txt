@@ -1,0 +1,24 @@
+C:\Users\Pepa ml\Documents\Visual Studio 2010\Projects\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.Form1.resources
+C:\Users\Pepa ml\Documents\Visual Studio 2010\Projects\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.Properties.Resources.resources
+C:\Users\Pepa ml\Documents\Visual Studio 2010\Projects\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.csproj.GenerateResource.Cache
+C:\Users\Pepa ml\Documents\Visual Studio 2010\Projects\XNA\prevadec\prevadec\bin\Debug\prevadec.exe
+C:\Users\Pepa ml\Documents\Visual Studio 2010\Projects\XNA\prevadec\prevadec\bin\Debug\prevadec.pdb
+C:\Users\Pepa ml\Documents\Visual Studio 2010\Projects\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.exe
+C:\Users\Pepa ml\Documents\Visual Studio 2010\Projects\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.pdb
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.exe
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.pdb
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.Form1.resources
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.Properties.Resources.resources
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.csproj.GenerateResource.Cache
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\prevadec\prevadec\bin\Debug\prevadec.exe
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\prevadec\prevadec\bin\Debug\prevadec.pdb
+C:\Users\pepca\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.exe
+C:\Users\pepca\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.pdb
+C:\Users\pepca\Disk Google\Diplomka\XNA\prevadec\prevadec\bin\Debug\prevadec.exe
+C:\Users\pepca\Disk Google\Diplomka\XNA\prevadec\prevadec\bin\Debug\prevadec.pdb
+C:\Users\pepca\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.Form1.resources
+C:\Users\pepca\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.Properties.Resources.resources
+C:\Users\pepca\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.csproj.GenerateResource.Cache
+C:\Users\pepca\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.csprojResolveAssemblyReference.cache
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\prevadec\prevadec\obj\x86\Debug\prevadec.csprojResolveAssemblyReference.cache
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\prevadec\prevadec\bin\Debug\prevadec.exe.config

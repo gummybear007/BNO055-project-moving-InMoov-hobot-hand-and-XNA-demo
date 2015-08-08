@@ -1,0 +1,17 @@
+.\out\system_stm32l1xx.o: knih\system_stm32l1xx.c
+.\out\system_stm32l1xx.o: knih\stm32l1xx.h
+.\out\system_stm32l1xx.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\out\system_stm32l1xx.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\out\system_stm32l1xx.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\out\system_stm32l1xx.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\out\system_stm32l1xx.o: knih\system_stm32l1xx.h
+.\out\system_stm32l1xx.o: knih\stm32l1xx_conf.h
+.\out\system_stm32l1xx.o: .\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h
+.\out\system_stm32l1xx.o: .\knih\stm32l1xx.h
+.\out\system_stm32l1xx.o: .\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h
+.\out\system_stm32l1xx.o: .\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h
+.\out\system_stm32l1xx.o: .\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h
+.\out\system_stm32l1xx.o: .\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h
+.\out\system_stm32l1xx.o: .\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h
+.\out\system_stm32l1xx.o: .\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h
+.\out\system_stm32l1xx.o: .\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h

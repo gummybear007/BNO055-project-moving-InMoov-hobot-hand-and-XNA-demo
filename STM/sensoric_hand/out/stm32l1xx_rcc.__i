@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc
+-I C:\Keil_v5\ARM\RV31\INC
+-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include
+-I C:\Keil_v5\ARM\Inc\ST\STM32L1xx
+-DSTM32L1XX_MD -o .\out\stm32l1xx_rcc.o --omf_browse .\out\stm32l1xx_rcc.crf --depend .\out\stm32l1xx_rcc.d "knih\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_rcc.c"

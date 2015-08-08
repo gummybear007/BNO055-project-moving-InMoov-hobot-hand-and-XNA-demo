@@ -1,0 +1,18 @@
+C:\Users\pepca\Desktop\raketa\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\pepca\Desktop\raketa\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\pepca\Desktop\raketa\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\pepca\Desktop\raketa\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pepca\Desktop\raketa\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\pepca\Desktop\raketa\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb

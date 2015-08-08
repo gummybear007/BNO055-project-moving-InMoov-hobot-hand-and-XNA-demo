@@ -1,0 +1,153 @@
+Dependencies for Project 'rukavice', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32l1xx_md.s)(0x532C639A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx--list .\startup_stm32l1xx_md.lst --xref -o .\out\startup_stm32l1xx_md.o --depend .\out\startup_stm32l1xx_md.d)
+F (.\knih\system_stm32l1xx.c)(0x536BEA7E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx-o .\out\system_stm32l1xx.o --omf_browse .\out\system_stm32l1xx.crf --depend .\out\system_stm32l1xx.d)
+I (knih\stm32l1xx.h)(0x536BE9EE)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (knih\system_stm32l1xx.h)(0x4F59DC8E)
+I (knih\stm32l1xx_conf.h)(0x553BE6E5)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x4F54C9D2)
+I (.\knih\stm32l1xx.h)(0x536BE9EE)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x536E020C)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h)(0x4F54C9D2)
+F (.\knih\uart.c)(0x5544E2FC)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx-o .\out\uart.o --omf_browse .\out\uart.crf --depend .\out\uart.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (knih\stm32l1xx.h)(0x536BE9EE)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (knih\system_stm32l1xx.h)(0x4F59DC8E)
+I (knih\stm32l1xx_conf.h)(0x553BE6E5)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x4F54C9D2)
+I (.\knih\stm32l1xx.h)(0x536BE9EE)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x536E020C)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h)(0x4F54C9D2)
+I (knih\uart.h)(0x53D6CE28)
+F (.\knih\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_gpio.c)(0x536E1AB4)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx-o .\out\stm32l1xx_gpio.o --omf_browse .\out\stm32l1xx_gpio.crf --depend .\out\stm32l1xx_gpio.d)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x536E020C)
+I (.\knih\stm32l1xx.h)(0x536BE9EE)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (.\knih\system_stm32l1xx.h)(0x4F59DC8E)
+I (.\knih\stm32l1xx_conf.h)(0x553BE6E5)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h)(0x4F54C9D2)
+F (.\knih\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_rcc.c)(0x4F54C9D4)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx-o .\out\stm32l1xx_rcc.o --omf_browse .\out\stm32l1xx_rcc.crf --depend .\out\stm32l1xx_rcc.d)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x4F54C9D2)
+I (.\knih\stm32l1xx.h)(0x536BE9EE)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (.\knih\system_stm32l1xx.h)(0x4F59DC8E)
+I (.\knih\stm32l1xx_conf.h)(0x553BE6E5)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x536E020C)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h)(0x4F54C9D2)
+F (.\knih\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_usart.c)(0x54003FA0)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx-o .\out\stm32l1xx_usart.o --omf_browse .\out\stm32l1xx_usart.crf --depend .\out\stm32l1xx_usart.d)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h)(0x4F54C9D2)
+I (.\knih\stm32l1xx.h)(0x536BE9EE)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (.\knih\system_stm32l1xx.h)(0x4F59DC8E)
+I (.\knih\stm32l1xx_conf.h)(0x553BE6E5)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x536E020C)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h)(0x4F54C9D2)
+F (.\knih\STM32L1xx_StdPeriph_Driver\src\misc.c)(0x4F54C9D2)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx-o .\out\misc.o --omf_browse .\out\misc.crf --depend .\out\misc.d)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h)(0x4F54C9D2)
+I (.\knih\stm32l1xx.h)(0x536BE9EE)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (.\knih\system_stm32l1xx.h)(0x4F59DC8E)
+I (.\knih\stm32l1xx_conf.h)(0x553BE6E5)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x536E020C)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h)(0x4F54C9D2)
+F (.\knih\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_tim.c)(0x546648AC)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx-o .\out\stm32l1xx_tim.o --omf_browse .\out\stm32l1xx_tim.crf --depend .\out\stm32l1xx_tim.d)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h)(0x4F54C9D2)
+I (.\knih\stm32l1xx.h)(0x536BE9EE)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (.\knih\system_stm32l1xx.h)(0x4F59DC8E)
+I (.\knih\stm32l1xx_conf.h)(0x553BE6E5)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x536E020C)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h)(0x4F54C9D2)
+F (.\init.c)(0x554F27B4)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx-o .\out\init.o --omf_browse .\out\init.crf --depend .\out\init.d)
+I (.\knih\stm32l1xx_conf.h)(0x553BE6E5)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x4F54C9D2)
+I (.\knih\stm32l1xx.h)(0x536BE9EE)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (.\knih\system_stm32l1xx.h)(0x4F59DC8E)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x536E020C)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h)(0x4F54C9D2)
+F (.\main.c)(0x554F2853)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\rukavice -I.\knih -I.\knih\STM32L1xx\Include -I.\knih\STM32L1xx_StdPeriph_Driver\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32L1xx-o .\out\main.o --omf_browse .\out\main.crf --depend .\out\main.d)
+I (.\knih\stm32l1xx.h)(0x536BE9EE)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C6842)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C6842)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C6842)
+I (.\knih\system_stm32l1xx.h)(0x4F59DC8E)
+I (.\knih\stm32l1xx_conf.h)(0x553BE6E5)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_dma.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x536E020C)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_tim.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_usart.h)(0x4F54C9D2)
+I (.\knih\STM32L1xx_StdPeriph_Driver\inc\misc.h)(0x4F54C9D2)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (.\knih\uart.h)(0x53D6CE28)
+I (.\knih\init.h)(0x554F27B4)

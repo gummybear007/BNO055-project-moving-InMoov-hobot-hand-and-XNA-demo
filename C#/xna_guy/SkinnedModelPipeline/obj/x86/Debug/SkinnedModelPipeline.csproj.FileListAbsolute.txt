@@ -1,0 +1,21 @@
+C:\Users\pepca\Desktop\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\pepca\Desktop\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\pepca\Desktop\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\pepca\Desktop\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\pepca\Desktop\raketa\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\pepca\Desktop\raketa\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\pepca\Desktop\raketa\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\pepca\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Pepa ml\Disk Google\Diplomka\XNA\raketa\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
